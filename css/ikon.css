@@ -61,11 +61,11 @@
 
 /* globals */
 body {
-    background-color: #E5DFDF;
+    background-color: rgba(0,0,0,0.0);
 }
 .wrapper {
     position: relative;
-    background-color: #E5DFDF;
+    background-color: rgba(0,0,0,0.0);
     margin: 40px auto 0 auto;
     height: 480px;
     width: 320px;
